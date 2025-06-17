@@ -1,4 +1,4 @@
-# Biomedical-Image-processing
+# 3D-segmentation-of-brain-tumor-using-DL-Architectures
 
 Brain Tumor Segmentation using BraTS-Africa Dataset
 
